@@ -1,5 +1,5 @@
 greeting:
-  image: arungupta/greeting
+  image: jayanj/greeting
   replicaCount: 1
 
 image:
