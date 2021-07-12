@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: greeting
-        image: jayanj/prometheus:latest
+        image: jayanj/greeting:prom
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8080
